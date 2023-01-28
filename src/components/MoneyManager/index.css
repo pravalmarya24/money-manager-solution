@@ -1,0 +1,156 @@
+/* Write your CSS here */
+.money-manager-app-container {
+  padding: 35px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.money-manager-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  height: 200px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+.richard-heading {
+  font-family: 'Roboto';
+  font-size: 33px;
+  font-weight: 600;
+  color: #475569;
+}
+
+.richard-para {
+  font-family: 'Roboto';
+  font-size: 19px;
+  font-weight: 500;
+  color: #475569;
+}
+
+.span-element {
+  color: #0b69ff;
+  font-weight: 500;
+}
+
+.form-container {
+  border-radius: 12px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cbd5e1;
+  width: 414px;
+  padding: 55px;
+  margin-top: 35px;
+}
+
+.add-transaction-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  color: #475569;
+}
+
+.title-label {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #7e858e;
+}
+
+.title-input-element {
+  height: 50px;
+  width: 267px;
+  border-color: #cbd5e1;
+  outline: none;
+  border-width: 1px;
+  padding-left: 12px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.selected-element {
+  height: 50px;
+  width: 267px;
+  border-color: #cbd5e1;
+  outline: none;
+  border-width: 1px;
+  padding-left: 12px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.add-btn {
+  height: 40px;
+  width: 95px;
+  border-width: 0;
+  border-radius: 4px;
+  background-color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+
+.history-form-container {
+  display: flex;
+}
+
+.history-container {
+  border-radius: 12px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cbd5e1;
+  width: 754px;
+  padding: 55px;
+  margin-top: 35px;
+  margin-left: 66px;
+}
+
+.history-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: bold;
+  color: #475569;
+}
+
+.list-name-container {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cbd5e1;
+  width: 645px;
+}
+
+.title-amount-type-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 345px;
+  height: 45px;
+  padding: 15px;
+  margin-bottom: 0;
+}
+
+.title-history-para {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  color: #475569;
+}
+
+.unordered-list {
+  padding-left: 0;
+  margin-left: 0;
+  margin-left: 0;
+  margin-top: 0;
+  border-top: none;
+}

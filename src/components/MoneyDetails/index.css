@@ -1,0 +1,119 @@
+/* Write your CSS here */
+.money-details-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.your-balance-container {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #84cc16;
+  background-color: #ecfccb;
+  display: flex;
+  align-items: center;
+}
+
+.your-bal-description {
+  margin-left: 15px;
+  padding: 15px;
+  height: 154px;
+  width: 194px;
+}
+
+.your-bal-img-size {
+  height: 64px;
+  width: 64px;
+  margin-left: 28px;
+}
+
+.your-bal-para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #475569;
+}
+
+.your-bal-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+  color: #475569;
+}
+
+.your-Income-container {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #06b6d4;
+  background-color: #cffafe;
+  display: flex;
+  align-items: center;
+}
+
+.your-Income-description {
+  margin-left: 15px;
+  padding: 15px;
+  height: 154px;
+  width: 194px;
+}
+
+.your-Income-img-size {
+  height: 64px;
+  width: 64px;
+  margin-left: 28px;
+}
+
+.your-Income-para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #475569;
+}
+
+.your-Income-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+  color: #475569;
+}
+
+.your-Expenses-container {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 12px;
+  border-color: #7c3aed;
+  background-color: #ede9fe;
+  display: flex;
+  align-items: center;
+}
+
+.your-Expenses-description {
+  margin-left: 15px;
+  padding: 15px;
+  height: 154px;
+  width: 194px;
+}
+
+.your-Expenses-img-size {
+  height: 64px;
+  width: 64px;
+  margin-left: 28px;
+}
+
+.your-Expenses-para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #475569;
+}
+
+.your-Expenses-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+  color: #475569;
+}
